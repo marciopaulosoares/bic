@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="20dp">
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Criada em 2013, a Secretaria de Planejamento e Gestão elabora o planejamento estratégico da cidade, orientando a gestão para resultados." />
+
+
+    <Button
+        android:id="@+id/btnFechar"
+        style="@style/botao_branco"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="3dp"
+        android:text="Fechar" />
+</LinearLayout>

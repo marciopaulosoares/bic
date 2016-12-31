@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">BIC</string>
+    <string name="informacoesdemograficas">Informações Demográficas e Socioeconômicas</string>
+    <string name="locaisprefeitura">Busque locais da Prefeitura</string>
+    <string name="informacoesregionalizadas">Informações Regionalizadas</string>
+</resources>
